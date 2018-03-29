@@ -32,11 +32,16 @@ html {
 
 td {
   border: 1px solid #ccc;
-  color: #333;
-  height: 3em;
+  color: #000;
+  height: 9em;
 }
 
 thead {
   border: 1px solid #ccc;
-  color: #333;
+  color: #000;
+}
+
+th {
+  border: 1px solid #ccc;
+  color: #000;
 }
